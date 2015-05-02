@@ -1,0 +1,66 @@
+body
+{
+background-color:black;
+}
+
+.logo
+{
+	text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header
+{
+}
+.names
+{
+	font-size: 15pt;
+	text-align:center;
+	color:#ffffff;
+}
+.selectbox
+{
+	font-size: 15pt;
+	text-align:center;
+	color:#7A7D80;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image
+{
+	text-align:center;
+}
+
+.script {	
+	font-size: 10pt;
+	text-align:right;
+	color:#ffffff;
+}
+
+.copyright
+{
+	font-size: 10pt;
+	text-align:center;
+	color:#ffffff;
+    margin-left: auto;
+    margin-right: auto;
+}
+.button
+{
+	text-align:center;
+    margin-left: auto;
+    margin-right: auto;
+}
+A:link 
+{
+	color: #64ab0f;
+}
+A:visited 
+{
+	color: #64ab0f;
+}
+A:active 
+{
+	color: #64ab0f;
+}
